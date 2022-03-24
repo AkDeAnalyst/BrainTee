@@ -1,4 +1,4 @@
-# BrainTee
+# BrainTree
  My solution to the Alexander Connelly BrainTee Challenge
 
 Code Challenge v2.11
